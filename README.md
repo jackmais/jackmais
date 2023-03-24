@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1>⚾️ About me</h1>
+- I'm a 20 year old full stack developer who enjoys watching sports in my free time.
+- I've been on and off studying computer science for the last 6 years, while dedicating more time on self-studying in the last 12 months.
+
+<h2>🔭 Projects i'm working on</h2>
+- 
