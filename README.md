@@ -25,5 +25,4 @@ Here are some ideas to get you started:
 - Web host servering
 <h2>📫 Reach out!<h2>
  <a href="linkedin.com/in/jack-maistros-914b61268"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=White" alt="HTML tutorial"></a>
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/jackmais)
-<a href = "mailto:https://github.com/jackmais"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt = "gmail"></a>
+<a href = "mailto:jackmaistros@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt = "gmail"></a>
