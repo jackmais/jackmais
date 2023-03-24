@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 <h2>📚 What i'm learning <h2>
 - GCP functionality and manipulation
 - Web host servering
-<h2>📫 Reach out!<h2>
+<h2>🔗 Links<h2>
  <a href="linkedin.com/in/jack-maistros-914b61268"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=White" alt="HTML tutorial"></a>
 <a href = "mailto:jackmaistros@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt = "gmail"></a>
