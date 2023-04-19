@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - I've been on and off studying computer science for the last 6 years, while dedicating more time on self-studying in the last 12 months.
 <h2>🔭 Projects i'm working on</h2>
 - Sportsbook Comparator<br></br>
- <t></t> - Working on adding more sportbooks to "LIVE" tab<br></br>
+ <t></t> - Adding an ability to compare odds for arbitrage opportunities<br></br>
 - Personal portfolio website<br></br>
   - Developing main page<br></br>
  
@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 - Web host servering
 </div>
 <h2>🔗 Links<h2>
- <a href="https://linkedin.com/in/jack-maistros"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=White" alt="linkedIn"></a>
-<a href = "mailto:jackmaistros@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt = "gmail"></a>
+ <a href="https://linkedin.com/in/jack-maistros" rel="noopener" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=White" alt="linkedIn"></a>
+<a href = "mailto:jackmaistros@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt = "gmail"></a>
