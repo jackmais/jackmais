@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 - Web host servering
 </div>
 <h2>🔗 Links<h2>
- <a href="linkedin.com/in/jack-maistros"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=White" alt="HTML tutorial"></a>
+ <a href="linkedin.com/in/jack-maistros"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=White" alt="linkedIn"></a>
 <a href = "mailto:jackmaistros@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt = "gmail"></a>
