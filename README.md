@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 <h2>⚾️ About me</h2>
-- I'm a 20 year old full stack developer who enjoys watching sports in my free time.<br></br>
+- I'm a 21 year old full stack developer who enjoys watching sports in my free time.<br></br>
 - I've been on and off studying computer science for the last 6 years, while dedicating more time on self-studying in the last 12 months.
 <h2>🔭 Projects i'm working on</h2>
 - Sportsbook Comparator<br></br>
